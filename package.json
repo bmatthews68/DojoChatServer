@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/bmatthews68/DojoChatServer",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.3",
-    "express-mailer": "^0.3.0"
+    "express-mailer": "^0.3.0",
+    "express-session": "^1.12.1",
+    "jade": "^1.11.0",
+    "nconf": "^0.8.2",
+    "uuid": "^2.0.1"
   }
 }
